@@ -56,18 +56,13 @@ Driven by cutting-edge automation, I engineer software that connects dynamic AI 
   <tr>
     <td valign="top" width="50%">
       <h4>⚡ Frontend &amp; Frameworks</h4>
-      <img src="https://img.shields.io/badge/React-E2E8F0?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Next.js-E2E8F0?style=flat-square&logo=nextdotjs&logoColor=black" alt="Next.js" />
-      <img src="https://img.shields.io/badge/Vite-E2E8F0?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
       <img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-E2E8F0?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML/CSS" />
     </td>
     <td valign="top" width="50%">
       <h4>🔌 Backend &amp; Databases</h4>
-      <img src="https://img.shields.io/badge/FastAPI-E2E8F0?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
       <img src="https://img.shields.io/badge/Spring_Boot-E2E8F0?style=flat-square&logo=spring-boot&logoColor=6DB33F" alt="Spring Boot" />
       <img src="https://img.shields.io/badge/Node.js-E2E8F0?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
       <img src="https://img.shields.io/badge/PostgreSQL-E2E8F0?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Supabase-E2E8F0?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
     </td>
   </tr>
   <tr>
@@ -81,8 +76,6 @@ Driven by cutting-edge automation, I engineer software that connects dynamic AI 
       <h4>⚙️ IDEs &amp; Tools</h4>
       <img src="https://img.shields.io/badge/Eclipse_IDE-E2E8F0?style=flat-square&logo=eclipseide&logoColor=2C2255" alt="Eclipse" />
       <img src="https://img.shields.io/badge/VS_Code-E2E8F0?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Maven-E2E8F0?style=flat-square&logo=apachemaven&logoColor=C71A36" alt="Maven" />
-      <img src="https://img.shields.io/badge/Postman-E2E8F0?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
     </td>
   </tr>
 </table>
