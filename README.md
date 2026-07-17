@@ -8,7 +8,7 @@
   <!-- Dynamic Typing Tagline / Badges -->
   <p align="center">
     <a href="https://linkedin.com/in/shreyas-kumar-r-8822082b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://shreyas0gowda.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+    <a href="https://portfolio-phi-neon-374ecd032p.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
     <a href="mailto:gowdaashreyas@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
@@ -216,7 +216,7 @@ Feel free to reach out if you want to collaborate on AI-powered applications, sy
 
 <p align="center">
   <a href="https://linkedin.com/in/shreyas-kumar-r-8822082b2/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://shreyas0gowda.vercel.app/"><img src="https://img.shields.io/badge/Vercel_Portfolio-%23000000.svg?style=for-the-badge&amp;logo=vercel&amp;logoColor=00F0FF" alt="Portfolio" /></a>
+  <a href="https://portfolio-phi-neon-374ecd032p.vercel.app/"><img src="https://img.shields.io/badge/Vercel_Portfolio-%23000000.svg?style=for-the-badge&amp;logo=vercel&amp;logoColor=00F0FF" alt="Portfolio" /></a>
   <a href="mailto:gowdaashreyas@email.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Shreyas0Gowda"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
 </p>
