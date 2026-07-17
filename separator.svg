@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 8" width="100%" height="auto" fill="none">
+  <defs>
+    <linearGradient id="sepGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0" />
+      <stop offset="25%" stop-color="#00F0FF" stop-opacity="1" />
+      <stop offset="50%" stop-color="#3B82F6" stop-opacity="1" />
+      <stop offset="75%" stop-color="#E2E8F0" stop-opacity="1" />
+      <stop offset="100%" stop-color="#E2E8F0" stop-opacity="0" />
+    </linearGradient>
+    <style>
+      .line {
+        stroke: url(#sepGrad);
+        stroke-width: 2.5;
+        stroke-linecap: round;
+        stroke-dasharray: 100 750;
+        animation: sepPulse 5s ease-in-out infinite;
+      }
+      .bg-line {
+        stroke: #3B82F6;
+        stroke-opacity: 0.12;
+        stroke-width: 1.5;
+      }
+      @keyframes sepPulse {
+        0% { stroke-dashoffset: 850; }
+        100% { stroke-dashoffset: -850; }
+      }
+    </style>
+  </defs>
+  <!-- Background subtle track line -->
+  <line x1="10" y1="4" x2="840" y2="4" class="bg-line" />
+  <!-- Animated glow line -->
+  <line x1="10" y1="4" x2="840" y2="4" class="line" />
+</svg>
